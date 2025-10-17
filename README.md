@@ -26,6 +26,7 @@ The task is to build a **machine learning model** that accurately predicts price
 - **Image Encoder:** U-Net (feature extraction)  
 - **Final SMAPE Score:** `52.0`  
 
+
 ---
 
 ## 📂 Repository Structure
@@ -33,7 +34,8 @@ The task is to build a **machine learning model** that accurately predicts price
 ├── model.ipynb                     # Jupyter notebook with full pipeline
 ├── Problem Statement and Data Description.pdf
 ├── README.md                       # Project documentation
-├── /dataset                          # (optional) data directory
+├── /dataset                        # Data directory
+```
 
 ---
 
@@ -47,16 +49,11 @@ Lower SMAPE → Better performance.
 
 ---
 
-## 🚀 Future Work
-- Use transformer-based text and image encoders (e.g., BERT, CLIP).  
-- Experiment with end-to-end multimodal deep learning models.  
-- Apply price normalization for stability.  
-
----
-
 ## 🧰 Tech Stack
 - Python  
 - Pandas, NumPy, Scikit-learn  
 - LightGBM  
-- PyTorch    
+- PyTorch   
 - Jupyter Notebook  
+
+---
