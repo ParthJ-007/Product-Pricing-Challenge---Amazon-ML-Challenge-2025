@@ -43,8 +43,6 @@ The task is to build a **machine learning model** that accurately predicts price
 **Symmetric Mean Absolute Percentage Error (SMAPE):**
 
 SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predicted_price|)/2)
-
-
 Lower SMAPE → Better performance.
 
 ---
