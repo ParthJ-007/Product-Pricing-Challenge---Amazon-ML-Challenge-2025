@@ -41,9 +41,9 @@ The task is to build a **machine learning model** that accurately predicts price
 
 ## 📈 Evaluation Metric
 **Symmetric Mean Absolute Percentage Error (SMAPE):**
-\[
-\text{SMAPE} = \frac{1}{n}\sum \frac{|Pred - Actual|}{(|Pred| + |Actual|)/2}
-\]
+
+SMAPE = (1/n) * Σ |predicted_price - actual_price| / ((|actual_price| + |predicted_price|)/2)
+
 
 Lower SMAPE → Better performance.
 
