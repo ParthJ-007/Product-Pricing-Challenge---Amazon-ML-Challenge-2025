@@ -8,7 +8,7 @@ The objective is to predict the **price of a product** based on its **textual an
 
 ## 📊 Problem Statement
 In e-commerce, determining the optimal product price is crucial for business success and customer satisfaction.  
-The task is to build a **machine learning model** that accurately predicts prices using multi-modal product data.
+The task is to build a **machine learning models** that accurately predicts prices using multi-modal product data.
 
 ---
 
